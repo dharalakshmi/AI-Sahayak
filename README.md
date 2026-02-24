@@ -1,4 +1,4 @@
-# AI Shayak - WhatsApp-First Compliance Assistant
+# AI Sahayak - WhatsApp-First Compliance Assistant
 
 AI Sahayak is a full-stack, AI-powered compliance management platform designed specifically for Indian SMEs and MSMEs.
 
