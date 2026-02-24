@@ -280,7 +280,9 @@ Feel free to open an issue or connect via GitHub.
 
 ## 👩‍💻 Author
 Dhara Lakshmi Kusumanchi
+
 B.Tech CSE
+
 Full Stack Developer | AI Enthusiast
 
 GitHub: https://github.com/dharalakshmi
